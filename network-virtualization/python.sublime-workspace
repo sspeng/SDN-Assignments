@@ -1,0 +1,1933 @@
+{
+	"SublimeLinter":
+	{
+		"@python": 2.7,
+		"linters":
+		{
+			"pep8":
+			{
+				"@disable": false,
+				"ignore": "E127,E128",
+				"max-line-length": 512
+			}
+		}
+	}
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"of",
+				"ofp_flow_mod"
+			],
+			[
+				"con",
+				"collections"
+			],
+			[
+				"ma",
+				"mac_pair"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"p",
+				"policy"
+			],
+			[
+				"pas",
+				"past_buf"
+			],
+			[
+				"bm_ge",
+				"bm_get_bit_local"
+			],
+			[
+				"BUF",
+				"BUF_BIT_SIZE"
+			],
+			[
+				"past",
+				"past_buf"
+			],
+			[
+				"__",
+				"__local"
+			],
+			[
+				"bm_",
+				"bm_set_bit_atomic"
+			],
+			[
+				"fl",
+				"flag"
+			],
+			[
+				"WR",
+				"WORD_OFFSET"
+			],
+			[
+				"WA",
+				"WARP_SIZE"
+			],
+			[
+				"num_",
+				"num_edge"
+			],
+			[
+				"glo",
+				"global_id"
+			],
+			[
+				"t_e",
+				"t_elapse"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"CL_PR",
+				"CL_PROFILING_INFO_NOT_AVAILABLE"
+			],
+			[
+				"k_",
+				"k_test"
+			],
+			[
+				"len",
+				"len_bit"
+			],
+			[
+				"cl",
+				"clFlush	Issues All Previously Queued Commands In Command Queue"
+			],
+			[
+				"loca",
+				"local_id"
+			],
+			[
+				"clcreak",
+				"clCreateKernelsInProgram	Creates Kernel Objects For All Kernel Functions In Program Object"
+			],
+			[
+				"uin",
+				"uint32_t"
+			],
+			[
+				"CL_MEM_RE",
+				"CL_MEM_READ_WRITE"
+			],
+			[
+				"pin",
+				"pin_ac"
+			],
+			[
+				"clENC",
+				"clEnqueueCopyBuffer	Enqueues A Command To Copy From One Buffer To Another"
+			],
+			[
+				"map",
+				"map_prt"
+			],
+			[
+				"p_",
+				"p_past"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"clENMa",
+				"clEnqueueMapBuffer	Enqueues A Command To Map A Region Of The Buffer To Host Address Space"
+			],
+			[
+				"clENc",
+				"clEnqueueCopyBuffer	Enqueues A Command To Copy From One Buffer To Another"
+			],
+			[
+				"nx",
+				"next"
+			],
+			[
+				"bm",
+				"bm_set_bit_atomic"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"pa",
+				"past"
+			],
+			[
+				"clenmap",
+				"clEnqueueMapBuffer	Enqueues A Command To Map A Region Of The Buffer To Host Address Space"
+			],
+			[
+				"clenc",
+				"clEnqueueCopyBuffer	Enqueues A Command To Copy From One Buffer To Another"
+			],
+			[
+				"clcop",
+				"clEnqueueCopyBuffer	Enqueues A Command To Copy From One Buffer To Another"
+			],
+			[
+				"sr",
+				"src_size"
+			],
+			[
+				"as",
+				"assert"
+			],
+			[
+				"len_",
+				"len_prt"
+			],
+			[
+				"wo",
+				"word_offset_root"
+			],
+			[
+				"log",
+				"log_size"
+			],
+			[
+				"k_init_",
+				"k_init_prt"
+			],
+			[
+				"bit",
+				"bit_offet_root"
+			],
+			[
+				"root",
+				"word_offset_root"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"clCopy",
+				"clEnqueueCopyBuffer	Enqueues A Command To Copy From One Buffer To Another"
+			],
+			[
+				"num",
+				"num_vtx"
+			],
+			[
+				"CLread",
+				"CL_MEM_READ_WRITE"
+			],
+			[
+				"clCrete",
+				"clCreateBuffer	Creates A Buffer Object"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"dev",
+				"device_type"
+			],
+			[
+				"CL",
+				"CL_DEVICE_TYPE_GPU"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"clgetde",
+				"clGetDeviceInfo	Get Information About A Device"
+			],
+			[
+				"get_",
+				"get_global_id	Returns Unique Global Work-Item ID"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"__rea",
+				"__read_write"
+			],
+			[
+				"clGetpla",
+				"clGetPlatformInfo	Get Information About OpenCL Platform"
+			],
+			[
+				"my",
+				"my_end"
+			],
+			[
+				"clwrite",
+				"clEnqueueWriteBuffer	Enqueue Commands To Write From Host Memory To Buffer"
+			],
+			[
+				"clen",
+				"clEnqueueReadBuffer	Enqueue Commands To Read From Buffer To Host Memory"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"clre",
+				"clReleaseKernel	Decrements The Kernel Reference Count"
+			],
+			[
+				"clreP",
+				"clReleaseProgram	Decrements The Program Reference Count"
+			],
+			[
+				"clenker",
+				"clEnqueueNDRangeKernel	Enqueues A Command To Execute A Kernel"
+			],
+			[
+				"clme",
+				"cl_mem"
+			],
+			[
+				"clcreatePr",
+				"clCreateProgramWithSource	Creates A Program Object From Source"
+			],
+			[
+				"clremem",
+				"clReleaseMemObject	Decremenets The Memory Object Reference Count"
+			],
+			[
+				"clcre",
+				"clCreateBuffer	Creates A Buffer Object"
+			],
+			[
+				"cl_",
+				"cl_mem"
+			],
+			[
+				"g",
+				"gpu"
+			],
+			[
+				"clrecomm",
+				"clReleaseCommandQueue	Decremenets The Command Queue Reference Count"
+			],
+			[
+				"C",
+				"CFLAGS"
+			],
+			[
+				"get",
+				"getall"
+			],
+			[
+				"pos",
+				"poisson"
+			],
+			[
+				"isf",
+				"isf-install"
+			],
+			[
+				"ena",
+				"enable-shared"
+			],
+			[
+				"en",
+				"enable-mpi"
+			],
+			[
+				"O",
+				"O_BLOCK_SIZE_Y"
+			],
+			[
+				"O_",
+				"O_BLOCK_SIZE_X"
+			],
+			[
+				"i_",
+				"i_row"
+			],
+			[
+				"SI",
+				"SIZE_X"
+			],
+			[
+				"o_",
+				"o_row"
+			],
+			[
+				"BLO",
+				"BLOCK_SIZE_X"
+			],
+			[
+				"BL",
+				"BLOCK_SIZE_Y"
+			],
+			[
+				"lo",
+				"local_cur"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"MY",
+				"MYSTENCIL"
+			],
+			[
+				"SIZ",
+				"SIZE_X"
+			],
+			[
+				"hos",
+				"host_cur"
+			],
+			[
+				"S",
+				"SIZE_Y"
+			],
+			[
+				"Si",
+				"SIZE_X"
+			],
+			[
+				"host",
+				"host_cur"
+			],
+			[
+				"De",
+				"device_nxt"
+			],
+			[
+				"sou",
+				"source_str"
+			],
+			[
+				"buf",
+				"buffer_dpt"
+			],
+			[
+				"buff",
+				"buffer_dpt"
+			],
+			[
+				"edge",
+				"edge_t"
+			],
+			[
+				"with-bla",
+				"with-blas"
+			],
+			[
+				"LIB",
+				"LIBFM_LIB"
+			],
+			[
+				"LI",
+				"LIBFM_LIB"
+			],
+			[
+				"M",
+				"MPIP_LIB"
+			],
+			[
+				"MPI",
+				"MPIP_LIB"
+			],
+			[
+				"MPIP",
+				"MPIP_HOME"
+			],
+			[
+				"mp",
+				"mpirun"
+			],
+			[
+				"mpi",
+				"mpicc"
+			],
+			[
+				"MPMO",
+				"MPI_MODE_NOPRECED"
+			],
+			[
+				"pro",
+				"proc_num"
+			],
+			[
+				"pra",
+				"parallel"
+			],
+			[
+				"req",
+				"req_status"
+			],
+			[
+				"c",
+				"cur"
+			],
+			[
+				"MP",
+				"MPI_Barrier"
+			],
+			[
+				"cur",
+				"cur_local"
+			],
+			[
+				"cu",
+				"cur_local"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"inc",
+				"inc_global_mid"
+			],
+			[
+				"pth",
+				"pthread_mutex_lock"
+			],
+			[
+				"gl",
+				"global_mid_mutex"
+			],
+			[
+				"pthrea",
+				"pthread_mutex_t"
+			],
+			[
+				"tm",
+				"tmp"
+			],
+			[
+				"udp",
+				"udp_fd"
+			],
+			[
+				"err",
+				"errno"
+			],
+			[
+				"e",
+				"eno"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Youwei/Zezhong/Software Defined Network/note.txt",
+			"settings":
+			{
+				"buffer_size": 3993,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "run.sh",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "topologySlice.py",
+			"settings":
+			{
+				"buffer_size": 2294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "videoSlice.py",
+			"settings":
+			{
+				"buffer_size": 3587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mininetSlice.py",
+			"settings":
+			{
+				"buffer_size": 2714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/simple-controller/firewall.py",
+			"settings":
+			{
+				"buffer_size": 1713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": " msra interview\n quick sort's main idea\n    good point and bad point of recursive \n    suppose u had produced a telephone, how to test it\n    three box, one is full of apples, one is full of oranges, one is mixture,\n each box has one label. but all the labels are in siaorder, u can pickup one \n fruit from each box, how to distinguish these boxes\n    do u know some new technical about IT\n    tell somthing about process and thread  ",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix",
+				"name": "msra interview"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"psi",
+				"Preferences: Settings - Default"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":q",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"encod",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"pakage",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 248.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/sdn-ixp/clean.sh",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/simple-controller/run.sh",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/examples/pox/ext/demos/l2_firewall.py",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/run.sh",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/bfs_combine.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/gpu/kernel.cl",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/gpu/gpu.c",
+		"/C/cygwin/home/Youwei/Project/AMDAPPSDK-2.9-1/samples/opencl/benchmark/GlobalMemoryBandwidth/GlobalMemoryBandwidth.cpp",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/Kernels.cl",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/simple-controller/firewall.py",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/network-virtualization/submit.py",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/simple-controller/submit.py",
+		"/C/Users/Youwei/Downloads/4 - 1 - Module 3.1- The Control Plane [15-37].txt",
+		"/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/sync.sh",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/doc/OpenCL_Release_Notes.txt",
+		"/C/Users/Youwei/Desktop/faculty.txt",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/README",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/Makefile",
+		"/C/cygwin/home/Youwei/Project/bench.sh",
+		"/C/cygwin/home/Youwei/Project/x-stream_release/New Text Document.txt",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/INSTALL",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/gpu/bac.txt",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/algorithms/bfs/bfs.py",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/algorithms/bfs/bfs_forest.hpp",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/benchmarks/driver.cpp",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/algorithms/bfs/bfs.hpp",
+		"/C/Users/Youwei/Downloads/HQuick_cv.tex",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/common.h",
+		"/C/Users/Youwei/Desktop/slow.txt",
+		"/C/Users/Youwei/Desktop/fast.txt",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/run.sh",
+		"/C/Users/Youwei/Downloads/x-stream-1.0/x-stream_release/utils/barrier.h",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/gpu/kernel.bac",
+		"/C/cygwin/home/Youwei/Project/AMDAPPSDK-2.9-1/samples/opencl/cl/BufferBandwidth/BufferBandwidth.cpp",
+		"/C/cygwin/home/Youwei/Project/AMDAPPSDK-2.9-1/samples/opencl/benchmark/GlobalMemoryBandwidth/GlobalMemoryBandwidth.hpp",
+		"/C/cygwin/home/Youwei/Project/AMDAPPSDK-2.9-1/samples/opencl/benchmark/GlobalMemoryBandwidth/GlobalMemoryBandwidth_Kernels.cl",
+		"/C/cygwin/home/Youwei/Project/AMDAPPSDK-2.9-1/samples/opencl/benchmark/MemoryOptimizations/MemoryOptimizations_Kernels.cl",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/sync.sh",
+		"/C/cygwin/home/Youwei/Project/uCLbench/mem_streaming/mem_streaming.cl",
+		"/C/Users/Youwei/Zezhong/Software Defined Network/note.txt",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/OpenCL/src/oclBandwidthTest/oclBandwidthTest.cpp",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/shared/src/shrUtils.cpp",
+		"/C/cygwin/home/Youwei/Project/uCLbench/mem_streaming/mem_streaming.cpp",
+		"/C/cygwin/home/Youwei/Project/uCLbench/cllib/clcommon.cpp",
+		"/C/cygwin/home/Youwei/Project/uCLbench/buffer_bandwidth/buffer_bandwidth.cpp",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/OpenCL/src/oclBandwidthTest/Makefile",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/OpenCL/common/common_opencl.mk",
+		"/C/Users/Youwei/Downloads/oclBandwidthTest/NVIDIA GPU Computing SDK/OpenCL/common/inc/oclUtils.h",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/bfs_combine.c",
+		"/C/Users/Youwei/Desktop/faculty",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/sw/master.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/bfs_run.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/graph_rawdata.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/CLHelper.h",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/Makefile",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/apu.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/sw/slave.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/verify.c",
+		"/C/cygwin/home/Youwei/Project/graph500-gitorious/graph500-graph500/Makefile",
+		"/C/cygwin/home/Youwei/Project/graph500-gitorious/graph500-graph500/Graph500.html",
+		"/C/Users/Youwei/Downloads/2 - 2 - Overview Part 2.txt",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/utils/benchmark/slave.c",
+		"/C/cygwin/home/Youwei/Project/graph500-mpi/sw/test_m.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/common.h",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/memory_access_offset_stride.cu",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/vecAdd.cu",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/histogram.cu",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/utils/OpenCLTest-amd/CLHelper.h",
+		"/C/Users/Youwei/Desktop/抑郁.txt",
+		"/C/Users/Youwei/Downloads/intel_ocl_caps_basic_linux/CapsBasic/README.TXT",
+		"/C/cygwin/home/Youwei/Project/CapsBasic/sync.sh",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/listReduce.cu",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/bfs_run.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/include/SDKUtil/CLUtil.hpp",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/graph_format.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/src/graph_format.h",
+		"/C/Users/Youwei/AppData/Local/Temp/Rar$DIa0.842/oclSimpleMultiGPU.cpp",
+		"/C/cygwin/home/Youwei/Project/graph500-cl/opencl",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/bitmap.h",
+		"/C/Users/Youwei/Downloads/graph500-cl/opencl",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/test.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/include/CL/cl.h",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/bfs_verify.c",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/apu/include/SDKUtil/SDKBitMap.hpp",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/x86/warp.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/.gitignore",
+		"/C/cygwin/home/Youwei/Project/graph500-apu/README",
+		"/C/Users/Youwei/Downloads/MILC_SC15/MILC_SC15/README",
+		"/C/Users/Youwei/AppData/Local/Temp/7zO7132.tmp/test.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/timer.c",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/matMul.cu",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/imageConvol.cu",
+		"/C/Users/Youwei/Zezhong/Super Computing/ISC15/octopus/octopus.sh",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/Makefile",
+		"/C/cygwin/home/Youwei/Project/graph500-gitorious/graph500-graph500/omp-csr/omp-csr.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/omp-csr/omp-csr.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/generator/user_settings.h",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/generator/graph_generator.h",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/omp-csr/omp-csr-thu.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/mpi/bfs_replicated.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/omp-csr/omp-csr -Numa.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/make-icc.inc",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/mpi/bfs_custom.c",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/mpi/README",
+		"/C/cygwin/home/Youwei/Project/heat-distibution/heat.cu",
+		"/C/Users/Youwei/Downloads/weekly-report-template_453707002.tex",
+		"/C/Users/Youwei/Zezhong/Super Computing/ISC15/octopus/run.sh",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/doti.sh",
+		"/C/cygwin/home/Youwei/Project/graph500-graph500/mpi/redistribute.h",
+		"/C/Users/Youwei/Desktop/compile.sh",
+		"/C/Users/Youwei/Downloads/install_pnfft-1.0.6-alpha_gcc.sh",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/kernel_hello.cl",
+		"/C/Users/Youwei/Downloads/install_fftw-3.3.4_gcc.sh",
+		"/C/cygwin/home/Youwei/Project/heat-distibution/run.sh",
+		"/C/Users/Youwei/Desktop/hosts",
+		"/C/cygwin/home/Youwei/Project/heat-distibution/serial_heat.c",
+		"/C/cygwin/home/Youwei/Project/heat-distibution/opnmp_heat.c",
+		"/C/cygwin/home/Youwei/Project/heat-distibution/mpi_heat.c",
+		"/C/Users/Youwei/Downloads/jacobi.cu",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/new_hello.c",
+		"/C/Users/Youwei/Zezhong/Heterogeneous Parallel Computing/host_hello.c",
+		"/C/Users/Youwei/Desktop/test.c",
+		"/C/cygwin/home/Youwei/Project/Jacobi/mpi.cpp",
+		"/C/Users/Youwei/Downloads/citations.bib",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/utils/osu-micro-benchmarks-4.4.1/upc/osu_upc_memget.c",
+		"/C/cygwin/home/Youwei/Project/graph500-distributed/src/graph_rawdata.h",
+		"/C/Users/Youwei/Desktop/G B"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\cygwin\\home\\Youwei\\Graph\\Sync"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"msg",
+			"1234",
+			"collection.",
+			"collection",
+			"msg",
+			"dpid_to_str",
+			"dpidToStr",
+			"namedtuple",
+			"Fail",
+			"Failed",
+			"-[^>]",
+			"->",
+			"-",
+			"bfs_per_processor_data",
+			"gather",
+			"generate_update_bfs",
+			"WARP_SIZE",
+			"WARP_",
+			"BUF_SIZE",
+			"past_v",
+			"WARP_SIZE",
+			"test",
+			"bfs_run_test",
+			"WARP",
+			"input",
+			"OFFSET",
+			"len_",
+			" / ",
+			"verify",
+			"ndrEvt",
+			" / ",
+			" /",
+			"/",
+			"DATATYPE=",
+			"DATAT",
+			"STRIDE",
+			"local_",
+			"kernelWorkGroupSize",
+			"localThreads",
+			"globalThreads",
+			"OFFSET",
+			"read_uncoalescing",
+			"globalThreads",
+			"ndrange",
+			"kernel",
+			"printMode",
+			"DEVICE_TO_HOST",
+			"Pox",
+			">>>",
+			"ver",
+			">>>",
+			"8192",
+			"k_bottomup_single",
+			"bottomup",
+			"bottom",
+			"num_col",
+			"clInvokeKernel_gpu",
+			"bottomup_omp",
+			"up_ocl",
+			"bottomup",
+			"bott",
+			"map",
+			"status",
+			"command",
+			"warp",
+			"TODO",
+			"endif",
+			"level",
+			"gpu",
+			"apu",
+			"progs",
+			"level",
+			"WARP_SIZE",
+			"lid",
+			"1 << 14",
+			"BUF",
+			"map",
+			"bo",
+			"parent",
+			"before",
+			"TODO",
+			"clEnqueueMapBuffer",
+			"ac_",
+			"ac",
+			"copy",
+			"atomic_inc",
+			"ac",
+			"ati",
+			"CL_INVALID_KERNEL_ARGS",
+			"\");\n",
+			"1l",
+			"64",
+			"32",
+			"uint32",
+			"64",
+			"finish",
+			"len",
+			"uint64",
+			"host_ptr",
+			"Unmap",
+			"malloc",
+			"CL_OUT_OF_HOST_MEMORY",
+			"\");\n",
+			"CL_DEVICE_TYPE_",
+			"waht",
+			"wa",
+			"CL_FALSE",
+			"!=",
+			"init",
+			"setarg",
+			"kernel",
+			"device_id_inused",
+			"device_id_cpu",
+			"device_id_gpu",
+			"device_id_inused",
+			"past",
+			"NDRange",
+			"gen_time",
+			"war",
+			"async_work_group_copy",
+			"kernel_file",
+			" <<",
+			"fin",
+			"ernel.cl",
+			"kernel.cl",
+			"kernel.",
+			"Buffer",
+			"platform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Youwei/Zezhong/Software Defined Network/note.txt",
+					"settings":
+					{
+						"buffer_size": 3993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2844,
+								2844
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1295.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "run.sh",
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "topologySlice.py",
+					"settings":
+					{
+						"buffer_size": 2294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1907,
+								1907
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 830.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "videoSlice.py",
+					"settings":
+					{
+						"buffer_size": 3587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 584.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mininetSlice.py",
+					"settings":
+					{
+						"buffer_size": 2714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2594,
+								2600
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 626.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/cygwin/home/Youwei/Project/Coursera-SDN/assignments/simple-controller/firewall.py",
+					"settings":
+					{
+						"buffer_size": 1713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1335,
+								1345
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "msra interview",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 664.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.918962722853,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 131.0
+	},
+	"output.sftp":
+	{
+		"height": 512.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"note.txt",
+				"oclBandwidthTest/NVIDIA GPU Computing SDK/doc/OpenCL_Release_Notes.txt"
+			],
+			[
+				"bac",
+				"graph500-apu/gpu/bac.txt"
+			],
+			[
+				"common",
+				"graph500-apu/src/common.h"
+			],
+			[
+				"ker",
+				"graph500-apu/apu/Kernels.cl"
+			],
+			[
+				"run",
+				"graph500-apu/run.sh"
+			],
+			[
+				"make",
+				"graph500-apu/Makefile"
+			],
+			[
+				"combi",
+				"graph500-apu/src/bfs_combine.c"
+			],
+			[
+				"glo",
+				"opencl/benchmark/GlobalMemoryBandwidth/GlobalMemoryBandwidth.hpp"
+			],
+			[
+				"bfs_com",
+				"graph500-apu/src/bfs_combine.c"
+			],
+			[
+				"globalmem",
+				"opencl/benchmark/GlobalMemoryBandwidth/GlobalMemoryBandwidth.cpp"
+			],
+			[
+				"gpu",
+				"graph500-apu/gpu/gpu.c"
+			],
+			[
+				"syn",
+				"graph500-apu/sync.sh"
+			],
+			[
+				"",
+				"graph500-apu/apu/CLHelper.h"
+			],
+			[
+				"clh",
+				"graph500-apu/apu/CLHelper.h"
+			],
+			[
+				"apu.c",
+				"graph500-apu/apu/apu.c"
+			],
+			[
+				"comm",
+				"graph500-apu/src/common.h"
+			],
+			[
+				"makef",
+				"graph500-apu/Makefile"
+			],
+			[
+				"gpu.c",
+				"graph500-apu/gpu/gpu.c"
+			],
+			[
+				"ma",
+				"graph500-graph500/Makefile"
+			],
+			[
+				"bfscom",
+				"graph500-apu/src/bfs_combine.c"
+			],
+			[
+				"verify",
+				"graph500-apu/src/verify.c"
+			],
+			[
+				"apu/makefile",
+				"graph500-apu/Makefile"
+			],
+			[
+				"osu",
+				"graph500-distributed/utils/osu-micro-benchmarks-4.4.1/upc/osu_upc_memget.c"
+			],
+			[
+				"bfs_run",
+				"graph500-distributed/src/bfs_run.c"
+			],
+			[
+				"master",
+				"graph500-distributed/sw/master.c"
+			],
+			[
+				"genra",
+				"graph500-distributed/scripts/gen_rawdata.sh"
+			],
+			[
+				"pro",
+				"graph500-distributed/sw/propagator.h"
+			],
+			[
+				"sw",
+				"graph500-distributed/sw/sw.h"
+			],
+			[
+				"rawda",
+				"graph500-distributed/src/graph_rawdata.h"
+			],
+			[
+				"ver",
+				"graph500-distributed/src/verify.c"
+			],
+			[
+				"rawdata",
+				"graph500-mpi/src/graph_rawdata.h"
+			],
+			[
+				"mas",
+				"graph500-distributed/sw/master.c"
+			],
+			[
+				"format.h",
+				"graph500-distributed/src/graph_format.h"
+			],
+			[
+				"format",
+				"graph500-mpi/src/graph_format.c"
+			],
+			[
+				"val",
+				"graph500-graph500/mpi/validate.c"
+			],
+			[
+				"fuse.h",
+				"fuse/fuse-2.9.3/include/fuse.h"
+			],
+			[
+				"bbf",
+				"fuse/tutorial/src/bbfs.c"
+			],
+			[
+				"server",
+				"fuse/server.c"
+			],
+			[
+				"gen",
+				"graph500-distributed/scripts/gen_rawdata.sh"
+			],
+			[
+				"bfs",
+				"graph500-distributed/src/bfs_run.c"
+			],
+			[
+				"log",
+				"mp2_assignment/Log.cpp"
+			],
+			[
+				"2no",
+				"mp2_assignment/MP2Node.cpp"
+			],
+			[
+				"1node",
+				"mp2_assignment/MP1Node.cpp"
+			],
+			[
+				"sub",
+				"mp2_assignment/submit.py"
+			],
+			[
+				"em",
+				"mp2_assignment/EmulNet.cpp"
+			],
+			[
+				"node",
+				"mp2_assignment/MP1Node.cpp"
+			],
+			[
+				"app",
+				"mp2_assignment/Application.cpp"
+			],
+			[
+				"std",
+				"mp2_assignment/stdincludes.h"
+			],
+			[
+				"mp2",
+				"mp2_assignment/MP2Node.h"
+			],
+			[
+				"ident",
+				"/C/Users/Youwei/Downloads/Zezhong/Compile/decaf_PA1_A/src/decaf/frontend/Lexer.java"
+			],
+			[
+				"main",
+				"src/main.c"
+			],
+			[
+				"pthre",
+				"x86/pthread.c"
+			],
+			[
+				"pthr",
+				"x86/pthread.c"
+			],
+			[
+				"smoke",
+				"/C/cygwin/home/Youwei/Project/Sync/Assignment/buflab-handout/smoke.txt"
+			],
+			[
+				"que",
+				"x86/queue.h"
+			],
+			[
+				"top",
+				"x86/topdown.c"
+			],
+			[
+				"pth",
+				"x86/pthread.c"
+			],
+			[
+				"time",
+				"src/timer.c"
+			],
+			[
+				"src/",
+				"src/main.c"
+			],
+			[
+				"m",
+				"Makefile"
+			],
+			[
+				"ru",
+				"run.sh"
+			],
+			[
+				"r",
+				"run.sh"
+			],
+			[
+				"comm3",
+				"graph500-graph500/omp-csr/omp-csr-commit3.c"
+			],
+			[
+				"ompcomm",
+				"graph500-graph500/omp-csr/omp-csr-commit3.c"
+			],
+			[
+				"icc",
+				"graph500-graph500/make-icc.inc"
+			],
+			[
+				"mad",
+				"Assignment/madolbrot.c"
+			],
+			[
+				"dot",
+				"graph500-graph500/doti.sh"
+			],
+			[
+				"om",
+				"graph500-graph500/omp-csr/omp-csr.c"
+			],
+			[
+				"do",
+				"Assginment/do.sh"
+			],
+			[
+				"test",
+				"Test/test.c"
+			],
+			[
+				"tes",
+				"Labs/test.c"
+			],
+			[
+				"gene",
+				"graph500-graph500/generator/graph_generator.c"
+			],
+			[
+				"res",
+				"graph500-graph500/result.txt"
+			],
+			[
+				"mak",
+				"graph500-graph500/Makefile"
+			],
+			[
+				"print",
+				"/C/Users/Youwei/Desktop/Artificial_Intelligence/AI_project_2014/tmp/Strategy.cpp.dump"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
